@@ -10,6 +10,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
+
 def send_qq_email(msg):
     # 发送邮件的相关信息，根据实际情况填写
     # 邮箱smtp主机地址
@@ -19,13 +20,13 @@ def send_qq_email(msg):
     # ssl的端口号
     sslPort = '465'
     # 发送方的邮件地址
-    fromMail = '你的qq邮箱'
+    fromMail = '1203192814@qq.com'
     # 接收方的邮件地址
-    toMail = '你的目的邮箱'
-    # 用户名
-    username = '用户名'
+    toMail = 'dizsun@126.com'
+    # 用户名,不能用Unicode编码
+    username = '1203192814@qq.com'
     # 密码\授权码
-    password = '授权码'
+    password = 'zmsxogvejrgabaad'
     # 邮件标题和内容
     subject = u'邮件标题'
     body = msg
@@ -61,7 +62,5 @@ def send_qq_email(msg):
         smtp.sendmail(fromMail, toMail, mail.as_string())
         smtp.close()
         print 'OK'
-    except Exception:
-        print 'Error: unable to send email'
-
-
+    except Exception, e:
+        print 'Error: unable to send email', e

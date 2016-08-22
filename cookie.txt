@@ -1,0 +1,14 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+rs.xidian.edu.cn	FALSE	/	FALSE		Q8qA_2132_auth	51c3hVeHmbEMXl8qqm08aTeBROcXPD7weflC8u2pCVB0kRqg5kP%2B%2FIUazbp17lUQNmDqHkvekt2BLfgyR9Lq9Q%2BpvME
+rs.xidian.edu.cn	FALSE	/	FALSE	1471857264	Q8qA_2132_checkfollow	1
+rs.xidian.edu.cn	FALSE	/	FALSE	1471943634	Q8qA_2132_lastact	1471857234%09member.php%09logging
+rs.xidian.edu.cn	FALSE	/	FALSE	1503393234	Q8qA_2132_lastcheckfeed	284269%7C1471857234
+rs.xidian.edu.cn	FALSE	/	FALSE	1474449234	Q8qA_2132_lastvisit	1471853634
+rs.xidian.edu.cn	FALSE	/	FALSE		Q8qA_2132_lip	10.170.48.182%2C1471857053
+rs.xidian.edu.cn	FALSE	/	FALSE	1471943634	Q8qA_2132_myrepeat_rr	R0
+rs.xidian.edu.cn	FALSE	/	FALSE	1474449234	Q8qA_2132_saltkey	tnlNQ82Y
+rs.xidian.edu.cn	FALSE	/	FALSE	1471943634	Q8qA_2132_sid	hpv7mA
+rs.xidian.edu.cn	FALSE	/	FALSE	1503393234	Q8qA_2132_ulastactivity	117dM5DOYxrb%2B1Nvkz4cZR%2BCYffrLIoYXofBoRYzvUgJ34OfEjob

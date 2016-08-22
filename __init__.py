@@ -103,4 +103,4 @@ while True:
         hassign = False
         writelog(1)
         print time.strftime("%H:%M", time.localtime())
-        time.sleep(60)
+        time.sleep(0.01)
