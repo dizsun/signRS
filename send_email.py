@@ -26,7 +26,7 @@ def send_qq_email(msg):
     # 用户名,不能用Unicode编码
     username = '1203192814@qq.com'
     # 密码\授权码
-    password = 'zmsxogvejrgabaad'
+    password = '******'
     # 邮件标题和内容
     subject = u'邮件标题'
     body = msg
