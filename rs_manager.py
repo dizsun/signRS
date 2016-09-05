@@ -117,7 +117,7 @@ class RSManager(object):
 
 
 if __name__ == '__main__':
-    manager = RSManager('sunshili', 'at18740441614')
+    manager = RSManager('***', '***')
     manager.loginRS()
     while True:
         if not manager.get_isLogin():
