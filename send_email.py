@@ -20,11 +20,11 @@ def send_qq_email(msg):
     # ssl的端口号
     sslPort = '465'
     # 发送方的邮件地址
-    fromMail = '1203192814@qq.com'
+    fromMail = '***@qq.com'
     # 接收方的邮件地址
-    toMail = 'dizsun@126.com'
+    toMail = '***@126.com'
     # 用户名,不能用Unicode编码
-    username = '1203192814@qq.com'
+    username = '***@qq.com'
     # 密码\授权码
     password = '******'
     # 邮件标题和内容
